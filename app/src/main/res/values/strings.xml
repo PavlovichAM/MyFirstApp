@@ -1,11 +1,10 @@
 <resources>
-    <string name="app_name">My First App</string>
-    <string name="nmedia">NMedia!</string>
-
-
-    <string name="description_post_author_avatar" translatable="false">Аватар автора</string>
-    <string name="description_post_menu" translatable="false">Меню</string>
-    <string name="description_like_icon" translatable="false">Лайк</string>
-    <string name="description_share_icon" translatable="false">Поделиться</string>
-    <string name="description_views_icon" translatable="false">Просмотры</string>
+    <string name="app_name">NMedia</string>
+    <string name="hello" translatable="false">Hello World!</string>
+    <string name="description_post_author_avatar">Аватар автора поста</string>
+    <string name="description_post_menu">Меню действий с постом</string>
+    <string name="description_post_like" translatable="false">Like</string>
+    <string name="description_post_share" translatable="false">Share</string>
+    <string name="nmedia">НМедиа!</string>
 </resources>
+
